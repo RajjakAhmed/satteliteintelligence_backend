@@ -3,8 +3,13 @@ uvicorn
 sqlalchemy
 psycopg2-binary
 python-dotenv
+pydantic-settings
 python-jose
 passlib[bcrypt]
+requests
+supabase
 python-multipart
-gradio_client
 pillow
+torch
+torchvision
+gradio_client
