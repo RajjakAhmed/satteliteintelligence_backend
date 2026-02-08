@@ -19,5 +19,5 @@ requests
 
 supabase
 storage3
-
+gradio-client
 huggingface-hub
